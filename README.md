@@ -12,7 +12,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prajval.gandhi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajval_gandhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prajval-gandhi) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/paju3125)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%233776AB.svg)](https://prajval-fsd-portfolio.netlify.app/)<br>
-📧 Email: prajvalgamdhi483@gmail.com <br>
+📧 Email: prajvalgandhi483@gmail.com <br>
 📄 [Resume/CV](https://github.com/paju3125/paju3125/files/12268921/Prajval.Resume.pdf)
 
 
